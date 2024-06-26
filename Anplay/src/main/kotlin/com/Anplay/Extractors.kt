@@ -9,7 +9,7 @@ import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.M3u8Helper
 
 class AnimesagaStream : Chillx() {
-    override val name = "AnimesagaStream"
+    override val name = "AnPlayStream"
     override val mainUrl = "https://stream.anplay.in"
 }
 
