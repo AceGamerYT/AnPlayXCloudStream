@@ -1,0 +1,37 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/AllMovieLandProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AceGamerYT/AnPlayXCloudStream",
+        "fileSize": 26728,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "AnPlayXCloudStream"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon"
+        ],
+        
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFWqooQh6c2ojQl0JG9DOzExN3rZMwncShzuvzAUA9A&s",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/AceGamerYT/AnPlayXCloudStream",
+        "fileSize": 22475,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "HindiProviders"
+        ],
+        "tvTypes": [
+            "Movie,Anime,Cartoon"
+        ],
+        "version": 9,
+        "internalName": "Anplay",
+        "description": "Anplay Hindi Animes",
+        "url": "https://raw.githubusercontent.com/AceGamerYT/AnPlayXCloudStream/builds/Anplay.cs3",
+        "name": "Anplay"
+    }
+]
