@@ -1,0 +1,8 @@
+{
+    "name": "AnPlayXCloudStream",
+    "description": "AnPlayXCloudStream Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/AceGamerYT/AnPlayXCloudStream/builds/plugins.json"
+    ]
+  }
