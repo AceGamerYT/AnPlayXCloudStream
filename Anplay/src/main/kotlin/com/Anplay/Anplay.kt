@@ -26,7 +26,18 @@ open class Anplay : MainAPI() {
         "movies" to "Movies",
         "tvshows" to "TV-Shows",
         "genre/hindi-dub" to "Hindi Dub",
+        "genre/tamil-dub" to "Tamil Dub",
+        "genre/telugu-dub" to "Telugu Dub",
         "genre/crunchyroll" to "Crunchyroll",
+        "genre/disney" to "Disney+",
+        "genre/netflix" to "Netflix",
+        "genre/action-adventure" to "Action & Adventure",
+        "genre/comedy" to "Comedy",
+        "genre/drama" to "Drama",
+        "genre/family" to "Family",
+        "genre/mystery" to "Mystery",
+        "genre/romance" to "Slice of Life",
+        "genre/sci-fi-fantasy" to "Sci-Fi & Fantasy",
     )
     
     companion object
